@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<document>
+
+<dbsettings>
+	<sqlServer>127.0.0.1</sqlServer>
+	<sqlUser>root</sqlUser>
+	<sqlPasswd>trespontinhos</sqlPasswd>
+	<sqlDB>webfeelsdb</sqlDB>
+</dbsettings>
+
+</document>
