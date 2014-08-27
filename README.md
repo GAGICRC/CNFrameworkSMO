@@ -26,7 +26,9 @@ Applied to Small and Medium Organizations:
 The CNFrameWorkSMO team, based at OSIKMCN, includes:
 
 Fernando Teodósio - Project Lead
+
 Hugo Rodrigues - Community Manager
+
 Miguel Carrasco - Developer
 
 # Guias de Estratégia Webfeels #
