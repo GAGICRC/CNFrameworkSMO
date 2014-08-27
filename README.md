@@ -21,7 +21,7 @@ Applied to Small and Medium Organizations:
 - Promote models, programs and projects with institutions, centers and scientific research;
 - Models for collaborative business networks, through the management of capabilities, planning and coordination in dynamic networks decision support systems, heuristic optimization objectives and technical interoperability and semantics.
 
-CREDITS:
+# CREDITS #
 
 The CNFrameWorkSMO team, based at OSIKMCN, includes:
 
@@ -51,6 +51,6 @@ Miguel Carrasco - Developer
 Webfeels, Webfeels.me and Webfeels Me are about to become registered trademarks of iKlive Networks.
 
 
-LICENSE:
+# LICENSE #
 
 CNFrameWorkSMO is open-source software released under the The MIT License (MIT).
